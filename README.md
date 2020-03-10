@@ -1,2 +1,2 @@
-# Artificial Intelligence Course's Source Codes.
+# AICourse Codes.
 Artificial Intelligence course repository. Mostly tasks and short projects.
